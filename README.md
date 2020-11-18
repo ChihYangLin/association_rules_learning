@@ -17,3 +17,11 @@
 association_rules = apriori(data=record, min_support=0.03, min_confidence = 0.6, min_lift=4, max_length = 2)
 ```
 * 3. 用pandas套件整理成可應用的表格
+
+
+
+
+
+
+
+
